@@ -1,0 +1,11 @@
+.completed{
+    text-decoration: line-through;
+    cursor: pointer;
+}
+.notCompleted{
+    cursor: pointer;
+}
+
+.head{
+    text-align: center;
+}
